@@ -1,4 +1,4 @@
-# Microsoft-Developer-Resources-AKS What The Hack (Jan 2023)
+# Microsoft-Developer-Resources-AKS What The Hack 
  ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
  This intro level hack will help you get hands-on experience with Docker, Kubernetes and the Azure Kubernetes Service (AKS) on Microsoft Azure. Kubernetes has quickly gone from being the shiny new kid on the block to the defacto way to deploy and orchestrate containerized applications.
 
